@@ -1,0 +1,52 @@
+[
+  {
+    "year": 1,
+    "prompt": "Do you want to invest $5,000 in high-risk stocks, $5,000 in mutual funds, or keep the money in your bank account?",
+    "options": ["High-Risk Stocks", "Mutual Funds", "Bank Account"]
+  },
+  {
+    "year": 2,
+    "prompt": "Do you want to reinvest dividends in your mutual funds, buy more high-risk stocks, or cash out your investments to cover expenses?",
+    "options": ["Reinvest Dividends", "Buy High-Risk Stocks", "Cash Out Investments"]
+  },
+  {
+    "year": 3,
+    "prompt": "Do you want to diversify your portfolio with international stocks, invest in an emerging market mutual fund, or purchase real estate stocks?",
+    "options": ["International Stocks", "Emerging Market Mutual Fund", "Real Estate Stocks"]
+  },
+  {
+    "year": 4,
+    "prompt": "Do you want to invest in a tech startup, purchase government bonds, or invest in renewable energy mutual funds?",
+    "options": ["Tech Startup", "Government Bonds", "Renewable Energy Mutual Funds"]
+  },
+  {
+    "year": 5,
+    "prompt": "Do you want to invest in dividend-paying stocks, a balanced mutual fund, or cryptocurrency?",
+    "options": ["Dividend-Paying Stocks", "Balanced Mutual Fund", "Cryptocurrency"]
+  },
+  {
+    "year": 6,
+    "prompt": "Do you want to invest in biotech stocks, socially responsible mutual funds, or real estate investment trusts (REITs)?",
+    "options": ["Biotech Stocks", "Socially Responsible Mutual Funds", "REITs"]
+  },
+  {
+    "year": 7,
+    "prompt": "Do you want to invest in sustainable agriculture, corporate bonds, or venture capital funds?",
+    "options": ["Sustainable Agriculture", "Corporate Bonds", "Venture Capital Funds"]
+  },
+  {
+    "year": 8,
+    "prompt": "Do you want to invest in artificial intelligence stocks, a global mutual fund, or treasury bonds?",
+    "options": ["Artificial Intelligence Stocks", "Global Mutual Fund", "Treasury Bonds"]
+  },
+  {
+    "year": 9,
+    "prompt": "Do you want to invest in health tech stocks, target-date funds, or municipal bonds?",
+    "options": ["Health Tech Stocks", "Target-Date Funds", "Municipal Bonds"]
+  },
+  {
+    "year": 10,
+    "prompt": "Do you want to invest in renewable energy stocks, a low-risk mutual fund, or diversify into international bonds?",
+    "options": ["Renewable Energy Stocks", "Low-Risk Mutual Fund", "International Bonds"]
+  }
+]

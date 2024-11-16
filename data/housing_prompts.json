@@ -1,0 +1,53 @@
+[
+    {
+      "year": 1,
+      "prompt": "Do you want to sell your house for $300,000 and start renting a place for $1,200 per month, or keep your house?",
+      "options": ["Sell House and Rent", "Keep House"]
+    },
+    {
+      "year": 2,
+      "prompt": "If you didn’t sell your house last year, do you want to sell it now for $320,000 and rent for $1,300 per month, or keep it?",
+      "options": ["Sell House and Rent", "Keep House"]
+    },
+    {
+      "year": 3,
+      "prompt": "If renting, do you want to negotiate your rent down by $100 per month, move to a cheaper place, or continue with the current rent?",
+      "options": ["Negotiate Rent", "Move to a Cheaper Place", "Continue with Current Rent"]
+    },
+    {
+      "year": 4,
+      "prompt": "If you own a house, do you want to rent out a room for extra income, consider a reverse mortgage, or do nothing?",
+      "options": ["Rent Out a Room", "Consider a Reverse Mortgage", "Do Nothing"]
+    },
+    {
+      "year": 5,
+      "prompt": "If renting, do you want to buy a small condo, continue renting, or move to a different rental property for potential savings?",
+      "options": ["Buy a Small Condo", "Continue Renting", "Move to a Different Rental Property"]
+    },
+    {
+      "year": 6,
+      "prompt": "If you own, do you want to sell your house now for a higher market value, rent it out entirely, or continue living in it?",
+      "options": ["Sell House for Higher Market Value", "Rent Out Entirely", "Continue Living in It"]
+    },
+    {
+      "year": 7,
+      "prompt": "If renting, do you want to downsize further, negotiate a better rent deal, or look for rent-to-own options?",
+      "options": ["Downsize Further", "Negotiate Rent Deal", "Look for Rent-to-Own Options"]
+    },
+    {
+      "year": 8,
+      "prompt": "If owning, do you want to convert part of your house into a rental suite, sell and move to a smaller place, or do nothing?",
+      "options": ["Convert to Rental Suite", "Sell and Move to a Smaller Place", "Do Nothing"]
+    },
+    {
+      "year": 9,
+      "prompt": "If renting, do you want to relocate to a more affordable city, buy a new home, or continue renting the current property?",
+      "options": ["Relocate to a More Affordable City", "Buy a New Home", "Continue Renting Current Property"]
+    },
+    {
+      "year": 10,
+      "prompt": "If owning, do you want to pay off your mortgage early, rent it out entirely, or consider a home equity line of credit?",
+      "options": ["Pay Off Mortgage Early", "Rent Out Entirely", "Consider a Home Equity Line of Credit"]
+    }
+  ]
+  
