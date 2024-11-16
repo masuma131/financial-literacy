@@ -1,53 +1,96 @@
-[
-    {
-      "year": 1,
-      "prompt": "Would you prefer to cut back on dining out, cancel some subscriptions, or reduce clothing purchases to save $1,000 this year?",
-      "options": ["Cut Back on Dining Out", "Cancel Subscriptions", "Reduce Clothing Purchases"]
-    },
-    {
-      "year": 2,
-      "prompt": "Will you switch to public transportation, reduce energy consumption, or take fewer vacations to save $1,500 this year?",
-      "options": ["Switch to Public Transportation", "Reduce Energy Consumption", "Take Fewer Vacations"]
-    },
-    {
-      "year": 3,
-      "prompt": "Will you cancel your gym membership, cook more meals at home, or reduce online shopping to save $2,000 this year?",
-      "options": ["Cancel Gym Membership", "Cook More Meals at Home", "Reduce Online Shopping"]
-    },
-    {
-      "year": 4,
-      "prompt": "Will you downsize your car, reduce entertainment expenses, or cut back on personal care services to save $2,500 this year?",
-      "options": ["Downsize Car", "Reduce Entertainment Expenses", "Cut Back on Personal Care Services"]
-    },
-    {
-      "year": 5,
-      "prompt": "Will you implement a strict budget, limit luxury purchases, or refinance loans to save $3,000 this year?",
-      "options": ["Implement Strict Budget", "Limit Luxury Purchases", "Refinance Loans"]
-    },
-    {
-      "year": 6,
-      "prompt": "Will you start a side hustle, cut back on utility bills, or eliminate non-essential travel to save $3,500 this year?",
-      "options": ["Start Side Hustle", "Cut Back on Utility Bills", "Eliminate Non-Essential Travel"]
-    },
-    {
-      "year": 7,
-      "prompt": "Will you adopt a minimalist lifestyle, bulk buy groceries, or switch to a cheaper phone plan to save $4,000 this year?",
-      "options": ["Adopt Minimalist Lifestyle", "Bulk Buy Groceries", "Switch to Cheaper Phone Plan"]
-    },
-    {
-      "year": 8,
-      "prompt": "Will you share living expenses with a roommate, grow your own food, or cancel premium services to save $4,500 this year?",
-      "options": ["Share Living Expenses with Roommate", "Grow Your Own Food", "Cancel Premium Services"]
-    },
-    {
-      "year": 9,
-      "prompt": "Will you reduce healthcare expenses, join a barter community, or cut back on holiday spending to save $5,000 this year?",
-      "options": ["Reduce Healthcare Expenses", "Join Barter Community", "Cut Back on Holiday Spending"]
-    },
-    {
-      "year": 10,
-      "prompt": "Will you downsize your living space, automate savings, or participate in a local co-op to save $5,500 this year?",
-      "options": ["Downsize Living Space", "Automate Savings", "Participate in Local Co-op"]
-    }
-]
+{
+    "id": "savings",
+    "prompts": [
+      {
+        "year": 1,
+        "prompt": "Do you want to deposit $2,000, $5,000, or $10,000 into a high-interest savings account this year?",
+        "options": [
+          {"name": "Deposit $2,000", "value": 2000.0},
+          {"name": "Deposit $5,000", "value": 5000.0},
+          {"name": "Deposit $10,000", "value": 10000.0}
+        ]
+      },
+      {
+        "year": 2,
+        "prompt": "Do you want to add $3,000, $5,000, or $7,000 to your savings account this year?",
+        "options": [
+          {"name": "Add $3,000", "value": 3000.0},
+          {"name": "Add $5,000", "value": 5000.0},
+          {"name": "Add $7,000", "value": 7000.0}
+        ]
+      },
+      {
+        "year": 3,
+        "prompt": "Do you want to deposit $4,000, $6,000, or $8,000 into your savings account this year?",
+        "options": [
+          {"name": "Deposit $4,000", "value": 4000.0},
+          {"name": "Deposit $6,000", "value": 6000.0},
+          {"name": "Deposit $8,000", "value": 8000.0}
+        ]
+      },
+      {
+        "year": 4,
+        "prompt": "Do you want to deposit $5,000, $7,000, or $9,000 into your savings account this year?",
+        "options": [
+          {"name": "Deposit $5,000", "value": 5000.0},
+          {"name": "Deposit $7,000", "value": 7000.0},
+          {"name": "Deposit $9,000", "value": 9000.0}
+        ]
+      },
+      {
+        "year": 5,
+        "prompt": "Do you want to deposit $6,000, $8,000, or $10,000 into your savings account this year?",
+        "options": [
+          {"name": "Deposit $6,000", "value": 6000.0},
+          {"name": "Deposit $8,000", "value": 8000.0},
+          {"name": "Deposit $10,000", "value": 10000.0}
+        ]
+      },
+      {
+        "year": 6,
+        "prompt": "Do you want to deposit $7,000, $9,000, or $11,000 into your savings account this year?",
+        "options": [
+          {"name": "Deposit $7,000", "value": 7000.0},
+          {"name": "Deposit $9,000", "value": 9000.0},
+          {"name": "Deposit $11,000", "value": 11000.0}
+        ]
+      },
+      {
+        "year": 7,
+        "prompt": "Do you want to deposit $8,000, $10,000, or $12,000 into your savings account this year?",
+        "options": [
+          {"name": "Deposit $8,000", "value": 8000.0},
+          {"name": "Deposit $10,000", "value": 10000.0},
+          {"name": "Deposit $12,000", "value": 12000.0}
+        ]
+      },
+      {
+        "year": 8,
+        "prompt": "Do you want to deposit $9,000, $11,000, or $13,000 into your savings account this year?",
+        "options": [
+          {"name": "Deposit $9,000", "value": 9000.0},
+          {"name": "Deposit $11,000", "value": 11000.0},
+          {"name": "Deposit $13,000", "value": 13000.0}
+        ]
+      },
+      {
+        "year": 9,
+        "prompt": "Do you want to deposit $10,000, $12,000, or $14,000 into your savings account this year?",
+        "options": [
+          {"name": "Deposit $10,000", "value": 10000.0},
+          {"name": "Deposit $12,000", "value": 12000.0},
+          {"name": "Deposit $14,000", "value": 14000.0}
+        ]
+      },
+      {
+        "year": 10,
+        "prompt": "Do you want to deposit $11,000, $13,000, or $15,000 into your savings account this year?",
+        "options": [
+          {"name": "Deposit $11,000", "value": 11000.0},
+          {"name": "Deposit $13,000", "value": 13000.0},
+          {"name": "Deposit $15,000", "value": 15000.0}
+        ]
+      }
+    ]
+  }
   
